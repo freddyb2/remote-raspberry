@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RemoteRaspberry</string>
+    <string name="title_activity_connect">ConnectActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_connect_ethernet">Test connect Ethernet</string>
+    <string name="test_connect_wifi">Test connect WIFI</string>
+    <string name="OK_button">OK</string>
+    <string name="NO_button">Non</string>
+    <string name="YES_button">Oui</string>
+    <string name="ANNULER_button">Annuler</string>
+    <string name="title_activity_service">ServiceActivity</string>
+    <string name="title_activity_parameter_editor">ParameterEditorActivity</string>
+    <string name="OK_button_text">Valider</string>
+
+</resources>
